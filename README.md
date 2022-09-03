@@ -11,6 +11,7 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [My Thoughts](#my-thoughts)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -46,6 +47,8 @@ Room for improvement:
 To do:
 - Add a database where it stores previous player scores to tally the best player. 
 
+## My Thoughts
+I really enjoyed recreating the game Simon, as I enjoy gaming. It was appealing and enjoyable to build the game from scratch and JS, HTML and CSS interact with each other to produce a web app. 
 
 ## Acknowledgements
 Give credit here.
