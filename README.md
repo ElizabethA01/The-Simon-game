@@ -37,6 +37,8 @@ You can press any key to start and it will show you a tile that you have to clic
 
 <img width="1248" alt="Screenshot 2022-09-03 at 17 20 21" src="https://user-images.githubusercontent.com/91877366/188279501-ea39088b-6a1d-4e23-b313-463027bf257b.png">
 
+![image](https://user-images.githubusercontent.com/91877366/188279597-deefe053-b45a-4a48-b3e4-1c8f50e90ffb.png)
+
 ## Project Status
 Project is: _completed_
 
