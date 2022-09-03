@@ -32,8 +32,21 @@ List the ready features here:
 - Use keys to interact with the game.
 
 
+## Setup
+To set up the local environment, clone the repository. 
+
+Clone the repository using the command line using HTTPS
+- Paste this command in the command line: $ git clone https://github.com/ElizabethA01/The-Simon-game.git or clone in VS code. 
+- Right click index.html and select open in default broswer (preferably Google Chrome).
+
+
 ## Usage
 You can press any key to start and it will show you a tile that you have to click on. As you go from level to level, the patterns get more and more complicated and you have to follow the pattern to keep going. 
+
+![image](https://user-images.githubusercontent.com/91877366/188279597-deefe053-b45a-4a48-b3e4-1c8f50e90ffb.png)
+
+<img width="1248" alt="Screenshot 2022-09-03 at 17 20 21" src="https://user-images.githubusercontent.com/91877366/188279501-ea39088b-6a1d-4e23-b313-463027bf257b.png">
+
 
 ## Project Status
 Project is: _completed_
@@ -47,8 +60,10 @@ Room for improvement:
 To do:
 - Add a database where it stores previous player scores to tally the best player. 
 
+
 ## My Thoughts
-I really enjoyed recreating the game Simon, as I enjoy gaming. It was appealing and enjoyable to build the game from scratch and JS, HTML and CSS interact with each other to produce a web app. 
+I really enjoyed recreating the game Simon, as I enjoy gaming. It was appealing and enjoyable to build the game from scratch and JS, HTML and CSS interact with each other to produce a web app. I learnt how to use the JavaScript jQuery to manipulate the HTML and the ease of use when creating websites. 
+
 
 ## Acknowledgements
 - This project was inspired by the game Simon. 
