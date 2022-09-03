@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "> I built a game that is modelled off the game Simon where you have to follow the patterns. > Live demo",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethA01/The-Simon-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizabethA01/The-Simon-game/issues"
+  },
+  "homepage": "https://github.com/ElizabethA01/The-Simon-game#readme"
+}
