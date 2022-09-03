@@ -35,6 +35,8 @@ List the ready features here:
 ## Usage
 You can press any key to start and it will show you a tile that you have to click on. As you go from level to level, the patterns get more and more complicated and you have to follow the pattern to keep going. 
 
+<img width="1248" alt="Screenshot 2022-09-03 at 17 20 21" src="https://user-images.githubusercontent.com/91877366/188279501-ea39088b-6a1d-4e23-b313-463027bf257b.png">
+
 ## Project Status
 Project is: _completed_
 
