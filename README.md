@@ -51,6 +51,5 @@ To do:
 I really enjoyed recreating the game Simon, as I enjoy gaming. It was appealing and enjoyable to build the game from scratch and JS, HTML and CSS interact with each other to produce a web app. 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by the game Simon. 
 - This project was based on [The Complete 2022 Web Development Bootcamp] https://www.udemy.com/course/the-complete-web-development-bootcamp/
