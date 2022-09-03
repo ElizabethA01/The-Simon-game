@@ -1,7 +1,6 @@
 # The-Simon-game
 
 > I built a game that is modelled off the game Simon where you have to follow the patterns.
-
 > Live demo 
 
 ## Table of Contents
